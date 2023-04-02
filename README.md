@@ -18,7 +18,7 @@ Sal Progressive Text Editor was made to demonstrate what I have learnt about PWA
 
   - Here is a screenshot of the app working in localhost:
 
-  ![sal-progressive-text-editor](.client/src/images/Screenshot.png)
+  ![sal-progressive-text-editor](./client/src/images/Screenshot.png)
 
   ## Credits
     * https://github.com/Sal8298
