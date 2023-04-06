@@ -21,6 +21,7 @@ Sal Progressive Text Editor was made to demonstrate what I have learnt about PWA
   ![sal-progressive-text-editor](./client/src/images/Screenshot.png)
 
   ## Credits
+    * Class Activities
     * https://github.com/Sal8298
     * Garrett Winter [https://github.com/garrettWinter]
 
